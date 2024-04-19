@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Pixela6
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning python 
